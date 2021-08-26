@@ -1,0 +1,26 @@
+{"passengers":[
+    {
+        "id": 2,
+        "passportNumber": "169x1a05f9",
+        "name": "anil",
+        "address": "Bengaluru",
+        "havingInfants": "NO",
+        "requireWheelChair": "NO"
+    },
+    {
+        "id": 1,
+        "passportNumber": "169x1a05f9",
+        "name": "anil",
+        "address": "Bengaluru",
+        "havingInfants": "NO",
+        "requireWheelChair": "NO"
+    },
+    {
+        "id": 3,
+        "passportNumber": "169x1a04f9",
+        "name": "anil",
+        "address": "Bengaluru",
+        "havingInfants": "NO",
+        "requireWheelChair": "NO"
+    }
+]}

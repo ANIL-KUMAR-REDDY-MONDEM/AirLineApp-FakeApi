@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            
+            "email":"admin@email.com",
+            "password":"admin",
+            "designation":"admin"
+        },
+        {
+
+            "email":"staff@email.com",
+            "password":"staff",
+            "designation":"staff"
+        }
+    ]
+}
